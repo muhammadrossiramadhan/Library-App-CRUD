@@ -1,0 +1,281 @@
+{
+    // Use IntelliSense to learn about possible attributes.
+    // Hover to view descriptions of existing attributes.
+    // For more information, visit: https://go.microsoft.com/fwlink/?linkid=830387
+    "version": "0.2.0",
+    "configurations": [
+        {
+            "type": "java",
+            "name": "Program_Utama",
+            "request": "launch",
+            "mainClass": "CRUD.Program_Utama",
+            "projectName": "04 - Memahami Struktur Pemograman_90275f1a"
+        },
+        {
+            "type": "java",
+            "name": "Percobaan35",
+            "request": "launch",
+            "mainClass": "Projekpembuatan.Percobaan35",
+            "projectName": "04 - Memahami Struktur Pemograman_ab6e79ff"
+        },
+        {
+            "type": "java",
+            "name": "Percobaan34",
+            "request": "launch",
+            "mainClass": "Projekpembuatan.Percobaan34",
+            "projectName": "04 - Memahami Struktur Pemograman_ab6e79ff"
+        },
+        {
+            "type": "java",
+            "name": "Percobaan33",
+            "request": "launch",
+            "mainClass": "Projekpembuatan.Percobaan33",
+            "projectName": "04 - Memahami Struktur Pemograman_ab6e79ff"
+        },
+        {
+            "type": "java",
+            "name": "Percobaan32",
+            "request": "launch",
+            "mainClass": "Projekpembuatan.Percobaan32",
+            "projectName": "04 - Memahami Struktur Pemograman_ab6e79ff"
+        },
+        {
+            "type": "java",
+            "name": "Percobaan31",
+            "request": "launch",
+            "mainClass": "Projekpembuatan.Percobaan31",
+            "projectName": "04 - Memahami Struktur Pemograman_ab6e79ff"
+        },
+        {
+            "type": "java",
+            "name": "Percobaan30",
+            "request": "launch",
+            "mainClass": "IO_Stream.Percobaan30",
+            "projectName": "04 - Memahami Struktur Pemograman_ab6e79ff"
+        },
+        {
+            "type": "java",
+            "name": "Percobaan30",
+            "request": "launch",
+            "mainClass": "Projekpembuatan.IO_Stream.Percobaan30",
+            "projectName": "04 - Memahami Struktur Pemograman_ab6e79ff"
+        },
+        {
+            "type": "java",
+            "name": "Percobaan30",
+            "request": "launch",
+            "mainClass": "Projekpembuatan.Percobaan30",
+            "projectName": "04 - Memahami Struktur Pemograman_ab6e79ff"
+        },
+        {
+            "type": "java",
+            "name": "Percobaan29_part2",
+            "request": "launch",
+            "mainClass": "Projekpembuatan.Percobaan29_part2",
+            "projectName": "04 - Memahami Struktur Pemograman_ab6e79ff"
+        },
+        {
+            "type": "java",
+            "name": "Percobaan29",
+            "request": "launch",
+            "mainClass": "Projekpembuatan.Percobaan29",
+            "projectName": "04 - Memahami Struktur Pemograman_ab6e79ff"
+        },
+        {
+            "type": "java",
+            "name": "Percobaan27",
+            "request": "launch",
+            "mainClass": "Projekpembuatan.Percobaan27",
+            "projectName": "04 - Memahami Struktur Pemograman_ab6e79ff"
+        },
+        {
+            "type": "java",
+            "name": "Percobaan26",
+            "request": "launch",
+            "mainClass": "Projekpembuatan.Percobaan26",
+            "projectName": "04 - Memahami Struktur Pemograman_ab6e79ff"
+        },
+        {
+            "type": "java",
+            "name": "Percobaan25",
+            "request": "launch",
+            "mainClass": "Projekpembuatan.Percobaan25",
+            "projectName": "04 - Memahami Struktur Pemograman_ab6e79ff"
+        },
+        {
+            "type": "java",
+            "name": "Percobaan24",
+            "request": "launch",
+            "mainClass": "Projekpembuatan.Percobaan24",
+            "projectName": "04 - Memahami Struktur Pemograman_ab6e79ff"
+        },
+        {
+            "type": "java",
+            "name": "Percobaan23",
+            "request": "launch",
+            "mainClass": "Projekpembuatan.Percobaan23",
+            "projectName": "04 - Memahami Struktur Pemograman_ab6e79ff"
+        },
+        {
+            "type": "java",
+            "name": "Percobaan22",
+            "request": "launch",
+            "mainClass": "Projekpembuatan.Percobaan22",
+            "projectName": "04 - Memahami Struktur Pemograman_ab6e79ff"
+        },
+        {
+            "type": "java",
+            "name": "Percobaan21",
+            "request": "launch",
+            "mainClass": "Projekpembuatan.Percobaan21",
+            "projectName": "04 - Memahami Struktur Pemograman_ab6e79ff"
+        },
+        {
+            "type": "java",
+            "name": "Percobaan20",
+            "request": "launch",
+            "mainClass": "Projekpembuatan.Percobaan20",
+            "projectName": "04 - Memahami Struktur Pemograman_ab6e79ff"
+        },
+        {
+            "type": "java",
+            "name": "Percobaan19",
+            "request": "launch",
+            "mainClass": "Projekpembuatan.Percobaan19",
+            "projectName": "04 - Memahami Struktur Pemograman_ab6e79ff"
+        },
+        {
+            "type": "java",
+            "name": "Percobaan18",
+            "request": "launch",
+            "mainClass": "Projekpembuatan.Percobaan18",
+            "projectName": "04 - Memahami Struktur Pemograman_ab6e79ff"
+        },
+        {
+            "type": "java",
+            "name": "Percobaan17",
+            "request": "launch",
+            "mainClass": "Projekpembuatan.Percobaan17",
+            "projectName": "04 - Memahami Struktur Pemograman_ab6e79ff"
+        },
+        {
+            "type": "java",
+            "name": "Percobaan16",
+            "request": "launch",
+            "mainClass": "Projekpembuatan.Percobaan16",
+            "projectName": "04 - Memahami Struktur Pemograman_ab6e79ff"
+        },
+        {
+            "type": "java",
+            "name": "Percobaan15",
+            "request": "launch",
+            "mainClass": "Projekpembuatan.Percobaan15",
+            "projectName": "04 - Memahami Struktur Pemograman_ab6e79ff"
+        },
+        {
+            "type": "java",
+            "name": "Percobaan14",
+            "request": "launch",
+            "mainClass": "Projekpembuatan.Percobaan14",
+            "projectName": "04 - Memahami Struktur Pemograman_ab6e79ff"
+        },
+        {
+            "type": "java",
+            "name": "Percobaan13",
+            "request": "launch",
+            "mainClass": "Projekpembuatan.Percobaan13",
+            "projectName": "04 - Memahami Struktur Pemograman_ab6e79ff"
+        },
+        {
+            "type": "java",
+            "name": "Percobaan12",
+            "request": "launch",
+            "mainClass": "Projekpembuatan.Percobaan12",
+            "projectName": "04 - Memahami Struktur Pemograman_ab6e79ff"
+        },
+        {
+            "type": "java",
+            "name": "Percobaan11",
+            "request": "launch",
+            "mainClass": "Projekpembuatan.Percobaan11",
+            "projectName": "04 - Memahami Struktur Pemograman_ab6e79ff"
+        },
+        {
+            "type": "java",
+            "name": "Coba",
+            "request": "launch",
+            "mainClass": "Projekpembuatan.Coba",
+            "projectName": "04 - Memahami Struktur Pemograman_ab6e79ff"
+        },
+        {
+            "type": "java",
+            "name": "Percobaan10",
+            "request": "launch",
+            "mainClass": "Projekpembuatan.Percobaan10",
+            "projectName": "04 - Memahami Struktur Pemograman_ab6e79ff"
+        },
+        {
+            "type": "java",
+            "name": "Percobaan9",
+            "request": "launch",
+            "mainClass": "Projekpembuatan.Percobaan9",
+            "projectName": "04 - Memahami Struktur Pemograman_ab6e79ff"
+        },
+        {
+            "type": "java",
+            "name": "Percobaan8",
+            "request": "launch",
+            "mainClass": "Projekpembuatan.Percobaan8",
+            "projectName": "04 - Memahami Struktur Pemograman_ab6e79ff"
+        },
+        {
+            "type": "java",
+            "name": "Percobaan7",
+            "request": "launch",
+            "mainClass": "Projekpembuatan.Percobaan7",
+            "projectName": "04 - Memahami Struktur Pemograman_ab6e79ff"
+        },
+        {
+            "type": "java",
+            "name": "Percobaan6",
+            "request": "launch",
+            "mainClass": "Projekpembuatan.Percobaan6",
+            "projectName": "04 - Memahami Struktur Pemograman_ab6e79ff"
+        },
+        {
+            "type": "java",
+            "name": "Percobaan5",
+            "request": "launch",
+            "mainClass": "Projekpembuatan.Percobaan5",
+            "projectName": "04 - Memahami Struktur Pemograman_ab6e79ff"
+        },
+        {
+            "type": "java",
+            "name": "Percobaan",
+            "request": "launch",
+            "mainClass": "Projekpembuatan.Percobaan",
+            "projectName": "04 - Memahami Struktur Pemograman_ab6e79ff"
+        },
+        {
+            "type": "java",
+            "name": "Percobaan2",
+            "request": "launch",
+            "mainClass": "Projekpembuatan.Percobaan2",
+            "projectName": "04 - Memahami Struktur Pemograman_ab6e79ff"
+        },
+        {
+            "type": "java",
+            "name": "Percobaan3",
+            "request": "launch",
+            "mainClass": "Projekpembuatan.Percobaan3",
+            "projectName": "04 - Memahami Struktur Pemograman_ab6e79ff"
+        },
+        {
+            "type": "java",
+            "name": "Percobaan4",
+            "request": "launch",
+            "mainClass": "Projekpembuatan.Percobaan4",
+            "projectName": "04 - Memahami Struktur Pemograman_ab6e79ff"
+        }
+    ]
+}

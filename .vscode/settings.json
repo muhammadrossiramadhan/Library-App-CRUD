@@ -1,0 +1,10 @@
+{
+    "terminal.integrated.fontSize": 20,
+    "window.zoomLevel": 0,
+    "editor.fontSize": 16,
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar"
+    ]
+}
