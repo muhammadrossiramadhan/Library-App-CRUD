@@ -1,2 +1,0 @@
-rossi,itu,batman
-ROSSI,AKAN,GYM
